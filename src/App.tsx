@@ -9,14 +9,14 @@ const customers: Customer[] = [
   // Predefined list of customers or fetch from an API
   { id: 1, name: 'Customer 1', title: 'Manager', address: 'Address 1' },
   { id: 2, name: 'Customer 2', title: 'Director', address: 'Address 2' },
-  { id: 3, name: 'Customer 3', title: 'Director', address: 'Address 3' },
-  { id: 4, name: 'Customer 4', title: 'Director', address: 'Address 4' },
-  { id: 5, name: 'Customer 5', title: 'Director', address: 'Address 5' },
-  { id: 6, name: 'Customer 6', title: 'Director', address: 'Address 6' },
-  { id: 7, name: 'Customer 7', title: 'Director', address: 'Address 7' },
-  { id: 8, name: 'Customer 8', title: 'Director', address: 'Address 8' },
-  { id: 9, name: 'Customer 9', title: 'Director', address: 'Address 9' },
-  { id: 10, name: 'Customer 10', title: 'Director', address: 'Address 10' },
+  { id: 3, name: 'Customer 3', title: 'MD', address: 'Address 3' },
+  { id: 4, name: 'Customer 4', title: 'Tester', address: 'Address 4' },
+  { id: 5, name: 'Customer 5', title: 'Intern', address: 'Address 5' },
+  { id: 6, name: 'Customer 6', title: 'Designer', address: 'Address 6' },
+  { id: 7, name: 'Customer 7', title: 'Senior Developer', address: 'Address 7' },
+  { id: 8, name: 'Customer 8', title: 'Junior Developer', address: 'Address 8' },
+  { id: 9, name: 'Customer 9', title: 'Lead Developer', address: 'Address 9' },
+  { id: 10, name: 'Customer 10', title: 'Product Manager', address: 'Address 10' },
   // Add more customers here
 ];
 
